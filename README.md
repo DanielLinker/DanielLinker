@@ -14,8 +14,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://de.linkedin.com/in/daniel-linker-9a890a222?trk=public_profile_samename-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://de.linkedin.com/in/daniel-linker-9a890a222?trk=public_profile_samename-profile" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/daniellinker/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/daniellinker/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/daniel-linker-9a890a222/?original_referer=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel-linker-9a890a222/?original_referer=" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/daniellinker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="daniellinker" height="30" width="40" /></a>
 <a href="https://discord.gg/#4009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#4009" height="30" width="40" /></a>
 </p>
 
@@ -27,3 +27,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daniellinker&show_icons=true&locale=en" alt="daniellinker" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daniellinker&" alt="daniellinker" /></p>
+
